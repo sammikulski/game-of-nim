@@ -1,0 +1,10 @@
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\obj\Debug\GameOfNim.frmGameOfNim.resources
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\obj\Debug\GameOfNim.Properties.Resources.resources
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csproj.GenerateResource.cache
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csproj.CoreCompileInputs.cache
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\bin\Debug\GameOfNim.exe.config
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\bin\Debug\GameOfNim.exe
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\bin\Debug\GameOfNim.pdb
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\obj\Debug\GameOfNim.exe
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\obj\Debug\GameOfNim.pdb
+C:\Users\tug41822\Documents\Visual Studio 2017\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csprojAssemblyReference.cache
